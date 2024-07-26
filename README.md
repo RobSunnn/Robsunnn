@@ -21,8 +21,7 @@
 </p>
 
 ## 🔭 Current Projects
-- **[Hotel Management System](https://github.com/robsunnn/hotelapp)**: This is a learning project to obtain new skills , and it is for a project defence for
-my exam for course Spring Advanced in the best academy in my country Softuni.bg. It is a simple Hotel Management System, and it is build using Spring Framework.
+- **[Hotel Management System](https://github.com/robsunnn/hotelapp)**: This project is a key part of my learning journey in the Spring Advanced course at [SoftUni](https://softuni.bg) - the premier academy for software development in my country. This Hotel Management System is a comprehensive application designed to manage hotel operations efficiently. It showcases my skills in web development, particularly using the Spring Framework.<br>
 For more detailed analytics, check out the [Traffic Insights](https://github.com/robsunnn/hotelapp/graphs/traffic) of this repository.
 
 - **[My Simple Page](https://github.com/robsunnn/robsunnn.github.io)**: This is my simple page, and it is a simple static page with a little functionality inside.
