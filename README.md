@@ -20,15 +20,12 @@
   Here, you'll find a collection of my projects and contributions. Feel free to explore, contribute, or get in touch!
 </p>
 
-
-
 ## 🔭 Current Projects
 - **[Hotel Management System](https://github.com/robsunnn/hotelapp)**: This is a learning project to obtain new skills , and it is for a project defence for
 my exam for course Spring Advanced in the best academy in my country Softuni.bg. It is a simple Hotel Management System, and it is build using Spring Framework.
 For more detailed analytics, check out the [Traffic Insights](https://github.com/robsunnn/hotelapp/graphs/traffic) of this repository.
 
 - **[My Simple Page](https://github.com/robsunnn/robsunnn.github.io)**: This is my simple page, and it is a simple static page with a little functionality inside.
-
 
 ## 🌱 Learning and Exploring
 
@@ -73,7 +70,26 @@ I'm open to collaboration on interesting projects. Feel free to reach out if you
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
-      
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=robsunnn&theme=radical" alt="Trophies" />
+</p>
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@robsunnn" alt="Contribution Calendar" />
+</p>
+<p align="center">
+  <img src="https://wakatime.com/badge/user/r" alt="WakaTime" />
+</p>
+<p align="center">
+  <img src="https://wakatime.com/badge/user/robsunnn.svg" alt="WakaTime" />
+</p>
+-->
+
 <!--## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Post Title 1](https://yourblog.com/post1)
