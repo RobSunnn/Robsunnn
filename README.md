@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp" alt="Profile Banner" style="max-width: 100%; height: auto;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd6cmZndnRueTdpd2VrcmV6ZDc1djEyYnowZGMxY3dvZWp5OHBmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Profile Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
