@@ -27,21 +27,6 @@ For more detailed analytics, check out the [Traffic Insights](https://github.com
 
 - **[My Simple Page](https://github.com/robsunnn/robsunnn.github.io)**: This is my simple page, and it is a simple static page with a little functionality inside.
 
-## 🌱 Learning and Exploring
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Containers-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Containers" />
-  <img src="https://img.shields.io/badge/Clouds-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Clouds" />
-</div>
-
-<!-- Top Languages Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsunnn&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 🤝 Collaborate
 I'm open to collaboration on interesting projects. Feel free to reach out if you have an idea or project in mind!
 
@@ -49,18 +34,38 @@ I'm open to collaboration on interesting projects. Feel free to reach out if you
 - Email: [robertospasovrs@gmail.com](mailto:robertospasovrs@gmail.com)
 - LinkedIn: [Roberto Spasov](https://www.linkedin.com/in/roberto-spasov-3305a4228/)
 
-## 📈 GitHub Stats
+## 💬 Let's Connect
+I'm always excited to meet new people in the tech community. Don't hesitate to [contact me](mailto:robertospasovrs@gmail.com)!
 
+## 🌱 Learning and Exploring
+<div align="center">
+  <code><img alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+  <code><img alt="Spring" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
+  <code><img alt="Docker" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+  <code><img alt="MySQL" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+  <code><img height="60px" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="60px" width="60px" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"></code>
+  <code><img height="60px" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="CSS3"></code>
+ <code><img alt="Azure" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code>
+ <code><img alt="Google Cloud" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></code>
+</div>
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsunnn&layout=compact&theme=merko" alt="Top Languages" style="height: 200px;  width: auto;" />
+  <img src="https://github-contribution-stats.vercel.app/api?username=robsunnn&count_private=true" alt="Contribution Graph" style="height: 200px; object-fit: contain; width: auto;" />
+</p>
 <table>
   <tr>
     <td>
-      <img  src="https://github-readme-stats.vercel.app/api?username=robsunnn&show_icons=true&theme=radical" alt="Your GitHub stats" />
+      <img  src="https://github-readme-stats.vercel.app/api?username=robsunnn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Your GitHub stats" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=robsunnn&theme=radical" alt="GitHub Contributions" />
     </td>
   </tr>
 </table>
+
 <div display: flex align="center">
   <img src="https://komarev.com/ghpvc/?username=robsunnn&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/robsunnn?label=Followers&style=social" alt="Followers" />
@@ -102,9 +107,8 @@ I'm open to collaboration on interesting projects. Feel free to reach out if you
 - **Award 2**: Description of award 2.
 - **Award 3**: Description of award 3.
 -->
-## 💬 Let's Connect
-I'm always excited to meet new people in the tech community. Don't hesitate to [contact me](mailto:robertospasovrs@gmail.com)!
+
 
 ---
 
-Thanks for visiting! Have a great day! 😊
+# Thanks for visiting! Have a great day! 😊
