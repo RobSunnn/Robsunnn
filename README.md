@@ -54,16 +54,10 @@ I'm always excited to meet new people in the tech community. Don't hesitate to [
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsunnn&layout=compact&theme=merko" alt="Top Languages" style="height: 200px;  width: auto;" />
   <img src="https://github-contribution-stats.vercel.app/api?username=robsunnn&count_private=true" alt="Contribution Graph" style="height: 200px; object-fit: contain; width: auto;" />
 </p>
-<table>
-  <tr>
-    <td>
-      <img  src="https://github-readme-stats.vercel.app/api?username=robsunnn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Your GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=robsunnn&theme=radical" alt="GitHub Contributions" />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robsunnn&theme=radical" alt="GitHub Contributions" />
+</p>
 
 <div display: flex align="center">
   <img src="https://komarev.com/ghpvc/?username=robsunnn&color=blue" alt="Profile Views" />
