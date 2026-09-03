@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:16213e&height=220&section=header&text=Roberto%20Spasov&fontSize=62&fontColor=58a6ff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Bulgaria%20%F0%9F%87%A7%F0%9F%87%AC&descAlignY=60&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,100:16213e&height=220&section=header&text=Roberto%20Spasov&fontSize=62&fontColor=58a6ff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Bulgaria%20%F0%9F%87%A7%F0%9F%87%AC&descAlignY=60&descColor=8b949e&animation=fadeIn" alt="Roberto Spasov - Full-Stack Developer" />
 
 <br/>
 
@@ -11,18 +11,18 @@
 <br/><br/>
 
 <a href="https://github.com/robsunnn">
-  <img src="https://img.shields.io/github/followers/robsunnn?label=Followers&style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff" />
+  <img src="https://img.shields.io/github/followers/robsunnn?label=Followers&style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff" alt="GitHub followers" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/roberto-spasov-3305a4228/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:roberto@spasov.cc">
-  <img src="https://img.shields.io/badge/Email-roberto%40spasov.cc-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Email-roberto%40spasov.cc-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=robsunnn&style=for-the-badge&color=58a6ff&label=Profile+Views&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=robsunnn&style=for-the-badge&color=58a6ff&label=Profile+Views&labelColor=0d1117" alt="Profile views" />
 
 </div>
 
@@ -111,13 +111,17 @@ public final class Roberto extends Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=robsunnn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&rank_icon=github" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robsunnn&theme=github_dark" alt="Roberto Spasov - GitHub profile summary" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robsunnn&theme=github_dark" height="200" alt="GitHub stats: stars, commits, PRs and issues" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsunnn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robsunnn&theme=github_dark" height="200" alt="Top languages by repository" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=robsunnn&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=robsunnn&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub contribution streak" />
 
 </div>
 
@@ -126,7 +130,7 @@ public final class Roberto extends Developer {
 ## 💬 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote" />
 </div>
 
 ---
@@ -134,7 +138,11 @@ public final class Roberto extends Developer {
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobSunnn/Robsunnn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobSunnn/Robsunnn/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/RobSunnn/Robsunnn/output/github-contribution-grid-snake.svg" alt="Snake eating my GitHub contribution grid" />
+  </picture>
 </div>
 
 ---
@@ -148,11 +156,11 @@ I'm always open to collaborating on interesting projects, discussing ideas, or j
 <br/>
 
 <a href="mailto:roberto@spasov.cc">
-  <img src="https://img.shields.io/badge/Email%20Me-roberto%40spasov.cc-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Email%20Me-roberto%40spasov.cc-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email me" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/roberto-spasov-3305a4228/">
-  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Connect on LinkedIn" />
 </a>
 
 </div>
@@ -162,13 +170,13 @@ I'm always open to collaborating on interesting projects, discussing ideas, or j
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://trophy.benkou.dev/?username=robsunnn&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=robsunnn&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&rank=-%3F&row=1&column=6" alt="GitHub trophies: Hyper Committer, Dynamic User, High Puller, Intermediate Dev, Middle Star, Middle Repo Creator" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" alt="Thanks for visiting" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=2000&color=8B949E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Footer" />
 </div>
